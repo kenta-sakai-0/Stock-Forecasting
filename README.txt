@@ -1,1 +1,1 @@
-The plots can be accessed from the .pdf
+You can see the results in the pdf
